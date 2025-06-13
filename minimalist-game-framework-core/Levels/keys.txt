@@ -1,0 +1,30 @@
+
+0-10 - moving platform﻿
+
+
+a - speed pickup
+b - button
+c - chandelier
+d - door
+f - fire
+g - gem
+i - sp(i)der web
+k - key
+l - lever
+o - ghost
+p - platform
+i - interval platform
+s - spider
+u - p(u)zzle door
+v - vine
+w - wall
+y - armor
+z - boss
+
+HUD specific
+S
+C
+L
+o - sc(o)re
+n - coi(n)S
+B - health Bar

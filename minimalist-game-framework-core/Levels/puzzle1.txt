@@ -1,0 +1,12 @@
+title: Puzzle 1
+map:
+
+
+
+      y    4
+      w    g   
+  x   w33  p   w   u
+pppppppppppppppppppp
+pppppppppppppppppppp
+pppppppppppppppppppp
+pppppppppppppppppppp

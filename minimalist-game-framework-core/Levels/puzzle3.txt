@@ -1,0 +1,15 @@
+title: Puzzle 3
+map:
+ppppppppppppppppppppp
+p            ww
+p            ww
+p           2ww
+p      vpp  pww
+p      v      w       u
+p      v      w       p
+p      v      w   777
+p x 4 6v      wp        
+ppppppppp333ppp    ppppppppppppppp
+ppppppppp   55   ppppppppppppppppppp
+ppppppppp   55 pppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppp

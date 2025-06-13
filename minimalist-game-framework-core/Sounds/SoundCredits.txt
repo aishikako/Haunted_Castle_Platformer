@@ -1,0 +1,5 @@
+collision-reverb: https://pixabay.com/sound-effects/fast-collision-reverb-14611/
+background-music:  https://pixabay.com/sound-effects/some-background-i-made-for-my-game-ambient-music-31873/
+whimsical-chime: https://pixabay.com/sound-effects/chime-and-chomp-84419/
+chime: https://pixabay.com/sound-effects/chime-sound-7143/
+spring: https://pixabay.com/sound-effects/funny-spring-sound-228111/

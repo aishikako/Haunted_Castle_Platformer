@@ -1,0 +1,24 @@
+title: Boss level: The Final Showdown 
+
+gravity: -3.5
+enemy respawn: disabled
+keyboard remap: false
+
+
+map:
+
+  
+              
+w              o          g    w                                               w              w                                                                                                                w
+w                 i            w                                     a         w              w                                                                                                                w
+w     ww                 pp    w                                w  w           w              w        v     iiiiiiiiii                                                                                        w
+w     ww  z          pp        c                       z        w  w           w       o      w        v         s                       k                                                                     w
+w     ww       wwww                              o              w  w       g   w              w        v       iiiiii           v    ppppppppppp                                                               w
+w     ww       wwww                           o           o        w       g   w              c        v         b              v                                                                              w
+w     ww       wwww                  g   o       o   o                 b   g   w                       v       iiiii            v      pppppppppppppppppppppppp                                                w
+w  iiiiii    y wwww   ppp           zg      o    o              vvvv           w                       v     s                  v      iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii                                  w
+w           pppppppp                 g                        pppppppp                                 v  iiiiiiiiiiiii         v                                                                              w
+w  x  s  j pppppppppp       j                                    j                                        pppppppppppppp                                                                                       w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+

@@ -1,0 +1,4 @@
+Player=1,Score=1,Coins=2
+Player=2,Score=12,Coins=0
+Player=3,Score=4,Coins=3
+Player=4,Score=3,Coins=4

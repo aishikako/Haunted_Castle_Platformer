@@ -1,0 +1,7 @@
+title: HUD
+map:
+
+  S               L
+  C               t
+  o                
+  B               A

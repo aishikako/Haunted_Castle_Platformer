@@ -1,0 +1,15 @@
+title: HUD
+map:
+    S   C   H
+    o   n   h
+        L
+
+HUD specific
+S - "Score"
+C - "Coins"
+H - "Health"
+L = "Level {Level}"
+A = Armor
+o - sc(o)re
+n - coi(n)S
+h - health

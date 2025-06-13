@@ -1,0 +1,23 @@
+title: World 1-1
+map:
+
+                                                                                       w
+                                                                                       w
+                                                                                       w                     o    7
+                                                                                       w                          7
+                                                                                       w          m               7
+                                                                                   m  uw              m     6    u7 
+                                                                               vpppppppppppppp pppppppppppppp   pppppp
+                                                pppppppppppp                   v            pp                 pp
+                                                   m              g            v             ppp    i  i   ppppp
+                                                 ppppgpppppp      i            v ffffffff      pppffffffpppp
+                                        a  g    ppppppppppppppppfffffpppppppppppppppppppppppp    pppppppp
+                         pppppppppppppppppppp np              ppppppppppppppppppppppppppppppppp
+                            1     333333355                    pppppppppppppppppppppppppppppp
+                                  3333   555                     ppppppppppppppppppppppppp      
+ww                                333     55                        ppppppppppppppppppp
+ww                          0  2  333  g4  55                            ppppppppp
+ww                      ppppppppppppppppppppppppppppppp
+ww    x   h          pppppppppppppppppppppppppppppppppppppp
+ppppppppfffffffffpppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppp

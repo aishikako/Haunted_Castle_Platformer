@@ -1,0 +1,24 @@
+﻿title: Hotel Escapes: Halloween Edition
+map:
+     
+
+     b
+         w    w
+         w    w
+         w    w
+         w    w     n 
+  www    w    w         v                 
+         w    w         v                 
+         w    w         v       i          
+         w   ww     m   v                 
+         w    w         v          2    3       
+         w    w      
+  www    w    w          v                 
+         w 1   w          v                 
+         w    w      s                   
+                  z s   555              
+    m  w              555555  
+x         0    4      55  55555
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp   
+

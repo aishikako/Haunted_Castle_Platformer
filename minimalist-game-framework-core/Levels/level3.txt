@@ -1,0 +1,25 @@
+title: Level 3
+map:
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
+
+                                                            w                             g
+fffffffffw                                        m         w                            ppp
+wwwwwwwwwW   Wp                              w   pppppppp   w                         i   
+wwwwwwwwwW   Wpppp                           wi  W      w   w                         
+wwwwwwwwwW   Wppp                            w   W      w   w                    i
+wwwwwwwwwW   Wppp  ww                        w   W      w   w                             
+wwwwwwwwwW   Wppfi  fff            g             W      w   w                       i         u   
+wwwwwwwwwW   Wpppf  pppppppffiffiffiffiffiffwwwwwwww    w   w               g          ppppppppppp
+wwwwwwwwwW   Wppppp    ppppppppppppppppppppppppppppp    w   ppppppppppppppppppppppp   vppppppppppp
+wwwwwwwwwW   Wpppppp      pppppppppppppppppppppppppp    w        1      w             vp
+wwwwwwwwwW   Wpppppp  g j ppppppppppppppppppppppppp4    w               w             vp
+wwwwwwwwwW   Wppppppppppppppppppppppppppppppppppppppp   w               w             vp
+wwwwwwwwwW   Ww                                   55                    w             vp
+             Ww                             a  g  55            0                     vp
+fff     pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppp    ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+ppp x  ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp

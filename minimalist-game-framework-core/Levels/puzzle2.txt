@@ -1,0 +1,15 @@
+title: Puzzle 2
+map:
+                     u
+       n         pppppp
+        55ppp
+ j       55
+pppppp          
+          
+            
+  x h          2    
+ppppfffffp5555pp   pppp
+ppppppppp5555pp     ppp
+pppp4        3   pppppp
+ppppppppppppppppppppppp
+ppppppppppppppppppppppp
