@@ -4,7 +4,6 @@ A fully playable 2D platformer game featuring original core mechanics, physics, 
 
 ## Features
 
-- **Project Management:** Led development as project manager, organized sprints, and coordinated team tasks using Scrum methodology.  
 - **Core Mechanics:** Implemented six unique movement mechanics, including sliding and climbing for fluid gameplay.  
 - **Physics Engine:** Built a custom physics engine tailored to platformer needs, ensuring smooth and responsive controls.  
 - **Puzzle Systems:** Created lever-based puzzles integrated seamlessly into the game world.  
