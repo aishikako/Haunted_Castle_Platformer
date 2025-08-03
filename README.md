@@ -1,1 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/N6DxVW3E)
+# Custom Platformer Game
+
+A fully playable 2D platformer game featuring original core mechanics, physics, and animations — built from scratch without using a game engine.
+
+## Features
+
+- **Project Management:** Led development as project manager, organized sprints, and coordinated team tasks using Scrum methodology.  
+- **Core Mechanics:** Implemented six unique movement mechanics including sliding and climbing for fluid gameplay.  
+- **Physics Engine:** Built a custom physics engine tailored to platformer needs, ensuring smooth and responsive controls.  
+- **Puzzle Systems:** Created lever-based puzzles integrated seamlessly into the game world.  
+- **Enemy AI:** Developed enemy AI with path planning for challenging and dynamic gameplay.  
+- **Parallax Scrolling:** Added immersive multi-layer parallax backgrounds for depth and visual appeal.
+- **Custom Animations:** Designed and implemented all character and environmental animations by hand.  
+
+## Technologies Used
+
+- Programming Language: C++ 
+- Custom-built physics and animation systems
+- Scrum project management  
